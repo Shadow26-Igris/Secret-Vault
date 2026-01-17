@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+
+# Environment files (secrets)
+.env
+**/.env
+
+# Logs
+*.log
+server.log
+
+# OS files
+desktop.ini
+.DS_Store
+
+# Build outputs
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Editor config
+.vscode/
+
+# Python cache
+__pycache__/
